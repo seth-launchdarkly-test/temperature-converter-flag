@@ -11,8 +11,9 @@ This project is a simple temperature converter (Fahrenheit to Celsius) with a fe
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/temperature-converter-flag.git
-   cd temperature-converter-flag
+   git clone https://github.com/seth-launchdarkly-test/temperature-converter-flag.git
+cd temperature-converter-flag
+
 
 2. **Install Dependencies**:
     Use a virtual environment.
