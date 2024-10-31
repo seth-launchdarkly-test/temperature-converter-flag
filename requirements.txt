@@ -1,0 +1,4 @@
+launchdarkly-server-sdk==9.8.0
+launchdarkly-server-sdk==9.8.0
+launchdarkly-server-sdk==9.8.0
+launchdarkly-server-sdk==9.8.0
